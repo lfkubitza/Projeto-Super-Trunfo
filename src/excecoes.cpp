@@ -1,0 +1,4 @@
+#include "excecoes.h"
+//Funções
+
+
